@@ -3,7 +3,5 @@
 
 地址1： http://home.go8blog.xyz
 
-地址2： http://tuziwoss.lofter.com
-
-地址3： https://github.com/santiagoking123/tuziwoss
+地址2： https://github.com/santiagoking123/tuziwoss
 
