@@ -5,7 +5,8 @@
 
 地址2： https://github.com/santiagoking123/tuziwoss （可用）
 
-[Deprecated] `https://go2.yuqianhe.xyz`  废弃地址
+废弃地址 ~~https://go2.yuqianhe.xyz~~ 已被墙，废弃
+
 
 
 以上地址长期有效，如果打不开，请开梯子访问。
